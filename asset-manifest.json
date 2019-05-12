@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c98a9a9d.chunk.css",
+    "main.js": "/static/js/main.c6e38d49.chunk.js",
+    "main.js.map": "/static/js/main.c6e38d49.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f818ef5c.chunk.js": "/static/js/2.f818ef5c.chunk.js",
+    "static/js/2.f818ef5c.chunk.js.map": "/static/js/2.f818ef5c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0d14661eefbd7ceb33335a89eb93e8e.js": "/precache-manifest.b0d14661eefbd7ceb33335a89eb93e8e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c98a9a9d.chunk.css.map": "/static/css/main.c98a9a9d.chunk.css.map",
+    "static/media/clock.scss": "/static/media/Digital-7.ttf.d1a0a8cb.woff",
+    "static/media/Octocat.png": "/static/media/Octocat.0ba2aa20.png",
+    "static/media/firma.png": "/static/media/firma.519430ac.png",
+    "static/media/love.png": "/static/media/love.eb4515d7.png",
+    "static/media/react.png": "/static/media/react.47ce6e77.png"
+  }
+}
