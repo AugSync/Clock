@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Clock/static/css/main.6d6630f8.chunk.css",
+    "main.css": "/Clock/static/css/main.3f05f6fd.chunk.css",
     "main.js": "/Clock/static/js/main.c6e38d49.chunk.js",
     "main.js.map": "/Clock/static/js/main.c6e38d49.chunk.js.map",
     "runtime~main.js": "/Clock/static/js/runtime~main.01fd917b.js",
@@ -8,9 +8,9 @@
     "static/js/2.f818ef5c.chunk.js": "/Clock/static/js/2.f818ef5c.chunk.js",
     "static/js/2.f818ef5c.chunk.js.map": "/Clock/static/js/2.f818ef5c.chunk.js.map",
     "index.html": "/Clock/index.html",
-    "precache-manifest.b4f454787def9fa2d42d11a577fb2217.js": "/Clock/precache-manifest.b4f454787def9fa2d42d11a577fb2217.js",
+    "precache-manifest.1223f219038308e80a4700a57fe10526.js": "/Clock/precache-manifest.1223f219038308e80a4700a57fe10526.js",
     "service-worker.js": "/Clock/service-worker.js",
-    "static/css/main.6d6630f8.chunk.css.map": "/Clock/static/css/main.6d6630f8.chunk.css.map",
+    "static/css/main.3f05f6fd.chunk.css.map": "/Clock/static/css/main.3f05f6fd.chunk.css.map",
     "static/media/clock.scss": "/Clock/static/media/Digital-7.ttf.d1a0a8cb.woff",
     "static/media/Octocat.png": "/Clock/static/media/Octocat.0ba2aa20.png",
     "static/media/firma.png": "/Clock/static/media/firma.519430ac.png",
